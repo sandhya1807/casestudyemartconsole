@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emart casestudy", "emart casestudy.csproj", "{D75D4239-09A8-44D4-BFAA-2711CB7BDE6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75D4239-09A8-44D4-BFAA-2711CB7BDE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75D4239-09A8-44D4-BFAA-2711CB7BDE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75D4239-09A8-44D4-BFAA-2711CB7BDE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75D4239-09A8-44D4-BFAA-2711CB7BDE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C52D291-89A6-457B-87EF-5338EF28DB70}
+	EndGlobalSection
+EndGlobal
